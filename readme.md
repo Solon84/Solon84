@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Solon84
+- 👀 I’m interested in discovering the secrets of computers in all details :-)
+- 🌱 I’m currently learning CS50, which is why I created this repo
+- 💞️ I’m looking to collaborate on anything I can. Which currently maybe is not too much
+- 📫 How to reach me - just write a message here
